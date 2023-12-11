@@ -11,12 +11,19 @@ body {
 
 h3 {
     color: white;
-    font-size: 148px;
+    font-size: 50px;
     text-align: center;
 }
 
 .titulo { 
-    color:blueviolet
+    color: lightblue;
+}
+
+.botao { 
+    color: white;
+    background-color: lightblue;
+    border-radius: 15px;
+
 }
 
 button {
